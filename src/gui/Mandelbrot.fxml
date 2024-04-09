@@ -61,9 +61,7 @@
       <Pane fx:id="imageParent">
          <children>
             <ImageView fx:id="imageView" fitHeight="600.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../../image.jpg" />
-               </image>
+               <image></image>
             </ImageView>
          </children>
       </Pane>
